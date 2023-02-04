@@ -7,7 +7,7 @@ public class ifEx {
         if (isAlien == false){
             System.out.println();
             System.out.println("You're an alien");
-            System.out.println("And your name is Jennifer van Weynsberghe");
+            System.out.println("You're in danger");
         }
 
         else {
